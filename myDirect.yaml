@@ -336,4 +336,4 @@ payload:
   - '+.translate.googleapis.com'
   - '+.hario.com'
   - '+.mfa.gov.sg'
-
+  - '+.tailscale.com'
