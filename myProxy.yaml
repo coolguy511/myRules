@@ -7,4 +7,4 @@ payload:
   - '+.thermosmalaysia.com'
   - '+.ankiweb.net'
   - '+.tailscale.com'
-    - '+.taurlia.com'
+  - '+.taurlia.com'
