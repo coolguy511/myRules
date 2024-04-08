@@ -4,6 +4,8 @@ payload:
   - DOMAIN-KEYWORD,gemini
   - DOMAIN,gemini.google.com
   - 'gemini.google.com'
+  - 'mtalk.google.com'
   - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
 
