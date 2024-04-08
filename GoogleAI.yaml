@@ -5,4 +5,5 @@ payload:
   - DOMAIN,gemini.google.com
   - 'gemini.google.com'
   - DOMAIN-SUFFIX,google.dev
+  - 'generativelanguage.googleapis.com'
 
