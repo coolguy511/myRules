@@ -1,6 +1,7 @@
 # NAME: GoogleAI
 
 payload:
-  - DOMAIN-KEYWORD,gemini.google.com
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,google.dev
 
