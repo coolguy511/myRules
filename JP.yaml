@@ -1,1 +1,6 @@
-test
+payload:
+  - '+.starbucks.co.jp'
+  - '+.thermos.jp'
+  - '+.hncb2b.co.kr'
+  - '+.tiger-corporation.com'
+  - '+.jp'
